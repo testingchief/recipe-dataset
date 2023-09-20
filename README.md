@@ -1,2 +1,2 @@
-# recipe-dataset
-Create a dataset for receipes
+# south-indian-recipe-dataset
+Create a dataset for South Indian recipes
